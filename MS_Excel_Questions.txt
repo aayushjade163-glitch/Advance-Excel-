@@ -1,0 +1,42 @@
+MS EXCEL QUESTIONS
+
+BASIC MATH FUNCTIONS - QUESTIONS
+
+1. Find the total salary of all employees.
+2. Find the average bonus.
+3. Calculate Salary × Bonus for each employee.
+4. Calculate Bonus % of Salary.
+5. Check whether each Employee ID is even or odd using MOD().
+6. Round each salary down to the nearest ₹1,000 using FLOOR().
+7. Count how many employees have a bonus entered using COUNT().
+8. Count how many employee names are present using COUNTA().
+9. Calculate the square of each employee's salary using POWER().
+10. Find the average working days using AVERAGE().
+
+--------------------------------------------------
+
+DATE AND TIME FUNCTIONS - QUESTIONS
+
+1. Display today's date using TODAY().
+2. Display the current date and time using NOW().
+3. Extract the day from each Issue Date.
+4. Extract the month from each Return Date.
+5. Extract the year from each Issue Date.
+6. Calculate how many days each book was borrowed using DATEDIF().
+7. Find the weekday number for each Return Date.
+8. Create the date 1 January 2027 using the DATE() function.
+
+--------------------------------------------------
+
+CONDITIONAL & LOGICAL FUNCTIONS - QUESTIONS
+
+1. Display Pass/Fail using IF().
+2. Assign trainers using SWITCH().
+3. Calculate the total marks of Python students using SUMIF().
+4. Find the average marks of Excel students using AVERAGEIF().
+5. Count how many students have Pending Fees using COUNTIF().
+6. Use IFERROR() to safely divide Marks by Attendance.
+7. Assign grades using IFS().
+8. Check certificate eligibility using AND().
+9. Find students needing a re-test using OR().
+10. Check whether the fee is not paid using NOT().

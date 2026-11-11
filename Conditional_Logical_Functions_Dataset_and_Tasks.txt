@@ -1,0 +1,26 @@
+Student Marks Dataset
+
+  Student ID   Student Name   Subject     Marks   Attendance % Result
+  ------------ -------------- --------- ------- -------------- --------
+  101          Amit           Python         85             92 Pass
+  102          Priya          Excel          48             88 Fail
+  103          Rahul          Python         76             95 Pass
+  104          Sneha          SQL            59             68 Pass
+  105          Kiran          Excel          34             82 Fail
+  106          Meena          Python         91             98 Pass
+  107          Arjun          SQL            67             72 Pass
+  108          Kavita         Excel          55             79 Pass
+
+Tasks
+
+1.  IF(): Display Pass if Marks>=40 else Fail.
+2.  SWITCH(): Python→PY, Excel→EX, SQL→SQL.
+3.  SUMIF(): Total marks of Python students.
+4.  AVERAGEIF(): Average marks of Excel students.
+5.  COUNTIF(): Count students who passed.
+6.  IFERROR(): Divide Marks by Attendance%; if error display Invalid
+    Data.
+7.  IFS(): Grade A+, A, B, C, Fail based on marks.
+8.  AND(): Eligible if Marks>=60 and Attendance>=75%.
+9.  OR(): Needs Improvement if Marks<40 or Attendance<75%.
+10. NOT(): TRUE if student is not failed, else FALSE.
